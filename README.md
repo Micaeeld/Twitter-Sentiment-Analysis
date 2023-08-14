@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 Twitter Sentiment Analysis Notebook
 This notebook is a demonstration of how to perform sentiment analysis on Twitter, classifying tweets as positive, neutral, or negative, based on the text of the tweet.
 
